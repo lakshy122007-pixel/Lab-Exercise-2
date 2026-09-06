@@ -27,6 +27,7 @@ PROCEDURE:
 13. Export the completed designs and use them as the output.
 
 OUTPUT:
+
 <img width="826" height="306" alt="Screenshot 2026-09-06 103836" src="https://github.com/user-attachments/assets/3e583ac8-e6ac-4772-8763-3c6c41ece160" />
 
 RESULT:
