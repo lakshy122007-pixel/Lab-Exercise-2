@@ -2,10 +2,10 @@
 Name: Lakshiya Rajkumar
 Reg No:212225240076
 
-AIM:
+**AIM:**
 To design and develop mobile application and web layouts by applying various Gestalt Principles such as proximity, similarity, continuity, closure, figure-ground, and common region to improve visual organization, usability, and user experience.
 
-PROCEDURE:
+**PROCEDURE:**
 1. Identify the requirements of the mobile application and web layout.
 2 .Select suitable Gestalt Principles such as:
    Proximity
@@ -26,9 +26,9 @@ PROCEDURE:
 12. Evaluate the layouts for consistency, readability, visual hierarchy, and usability.
 13. Export the completed designs and use them as the output.
 
-OUTPUT:
+**OUTPUT:**
 
 <img width="826" height="306" alt="Screenshot 2026-09-06 103836" src="https://github.com/user-attachments/assets/3e583ac8-e6ac-4772-8763-3c6c41ece160" />
 
-RESULT:
+**RESULT:**
 The mobile application and web layouts were successfully designed by applying Gestalt Principles such as Proximity, Similarity, Continuity, Closure, Figure-Ground, and Common Region. The principles helped in organizing interface elements, establishing visual hierarchy, improving readability, and creating a more user-friendly and visually consistent design.
